@@ -1,5 +1,5 @@
 # Mini-Project-Bioinformatika_BISB211606
-markdown_content = """# Protokol Filogenetika Rasbora Berbasis Marka Gen COI
+# Protokol Filogenetika Rasbora Berbasis Marka Gen COI
 
 Repositori ini berisi panduan langkah-demi-langkah dan dokumentasi metode untuk melakukan pengumpulan sekuens, penyelarasan (*alignment*), dan rekonstruksi pohon filogenetik pada genus *Rasbora* menggunakan marka gen *Cytochrome c Oxidase Subunit I* (COI) dengan sekuens *Danio rerio* sebagai *outgroup*.
 
